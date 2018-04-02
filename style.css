@@ -1,0 +1,15 @@
+html{
+  font-size: 62.5%;
+}
+
+body{
+  font-size: 1.5rem;
+}
+
+
+.list{
+  background: linear-gradient(to right bottom, #eee,#fff);
+  border: 2px solid rgba(0,0,0,.2);
+  min-height: 200px;
+  padding: 10px 20px 30px;
+}
