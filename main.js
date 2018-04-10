@@ -33,3 +33,9 @@ function checkedOn(){
 
 
 }
+
+
+//this is a comment for the new branch called develop
+function removeCheckbox(milisecond){
+    //TODO: the function shuold remove a checkbox after it disabled in the given milisecond
+}
